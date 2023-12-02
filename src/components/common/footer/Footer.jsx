@@ -2,6 +2,7 @@ import React from "react";
 import { footer } from "../../data/Data";
 import { Link } from "react-router-dom";
 import Subscription from "./Subscription";
+import Logo from "../../../assets/Images/logo/logo.png";
 
 const Footer = () => {
   return (
@@ -14,7 +15,7 @@ const Footer = () => {
                   <div className="footer-item">
                       <div className="footer-logo">
                         <Link to="/" className="footer-logo__link">
-                          <img src="../../../../public/images/logo.png" className="mb-3" alt="Logo " />
+                          <img src={Logo} className="mb-3" alt="Logo " />
                         </Link>
                           <h5>Do You Need Help With Anything?</h5>
                           <p className="mt-0 mb-5">
