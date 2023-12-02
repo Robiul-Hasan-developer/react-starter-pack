@@ -1,0 +1,22 @@
+/* =============== Scroll To Top Css Start ====================== */
+.scrollTop {
+    position: fixed;
+    background: transparent;
+    border: 3px solid hsl(var(--base));
+    color: hsl(var(--base));
+    bottom: 16px;
+    right: 16px;
+    z-index: 999;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.scrollTop:hover {
+    background-color: hsl(var(--base));
+    color: hsl(var(--white));
+    border-color: hsl(var(--base));
+}
+/* =============== Scroll To Top Css End ====================== */
