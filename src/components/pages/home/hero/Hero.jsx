@@ -1,6 +1,6 @@
 import React from 'react';
 import BannerStyle from './Hero.module.css';
-import Heading from '../../common/Heading';
+import Heading from '../../../common/Heading';
 import Filter from './Filter';
 
 const Hero = () => {

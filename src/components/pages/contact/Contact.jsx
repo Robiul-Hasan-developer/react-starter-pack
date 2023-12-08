@@ -5,7 +5,7 @@ import { ToastContainer, toast } from "react-toastify";
 
 import Header from "../../common/header/Header";
 import Breadcrumb from "../../common/Breadcrumb";
-import image from "../../images/contact.jpg";
+import image from "../../../assets/Images/thumbs/contact.jpg";
 import Footer from "../../common/footer/Footer";
 import ContactCss from "./Contact.module.css";
 
