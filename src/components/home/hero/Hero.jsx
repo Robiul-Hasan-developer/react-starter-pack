@@ -8,7 +8,7 @@ const Hero = () => {
         <section className={BannerStyle.heroSection}>
             <div className="container">
                 <div className={BannerStyle.heroContent}>
-                   <Heading title="Search Your Next Home" subtitle="Find new & featured property located in your local city." />
+                   <Heading title="This is Hero Title" subtitle="Find new & featured property located in your local city." />
                     <Filter/>
                 </div>
             </div>
