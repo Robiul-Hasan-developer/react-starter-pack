@@ -1,7 +1,7 @@
 /* ===================== Hero Css Start ========================== */
 .heroSection {
     padding: 180px 0;
-    background-image: url(../../../../public/images/hero-bg.png);
+    background-image: url(../../../../assets/Images/thumbs/hero-bg.png);
     background-size: cover !important;
     background-repeat: no-repeat !important;
     background-position: center center !important;
